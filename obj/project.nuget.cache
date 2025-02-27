@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4XlaChaAhADjX10cbUDM7KV+X397M7kb4q3J5NeyT2L37Yg3g+whFtKafQ2vQvFQXrjZQfO8I9HWlKxaCSlGnA==",
+  "success": true,
+  "projectFilePath": "C:\\_Workspace\\personal\\EventElement\\EventElement.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UmarGulzar\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\UmarGulzar\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\UmarGulzar\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.40.4\\microsoft.powerapps.msbuild.pcf.1.40.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\_Workspace\personal\EventElement\obj\Debug\EventElement.pcfproj.AssemblyReference.cache
+C:\_Workspace\personal\EventElement\obj\Debug\EventElement.pcfproj.CoreCompileInputs.cache
